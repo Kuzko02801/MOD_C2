@@ -1,0 +1,13 @@
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\bin\Debug\netcoreapp3.1\UD3-BASICS.exe
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\bin\Debug\netcoreapp3.1\UD3-BASICS.deps.json
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\bin\Debug\netcoreapp3.1\UD3-BASICS.runtimeconfig.json
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\bin\Debug\netcoreapp3.1\UD3-BASICS.runtimeconfig.dev.json
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\bin\Debug\netcoreapp3.1\UD3-BASICS.dll
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\bin\Debug\netcoreapp3.1\UD3-BASICS.pdb
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.csprojAssemblyReference.cache
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.AssemblyInfoInputs.cache
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.AssemblyInfo.cs
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.csproj.CoreCompileInputs.cache
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.dll
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.pdb
+C:\Users\Jusco\Desktop\MOD_C2\UD3-BASICS\obj\Debug\netcoreapp3.1\UD3-BASICS.genruntimeconfig.cache
